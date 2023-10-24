@@ -1,6 +1,12 @@
 #just
 
-Rough Draft
+- [Rough Draft]_(inde.md)
+- [First Fraft]_(first-draft.md)
+- [Revision]_(revision.md)
+- [Edit]_(edit.md)
+
+
+
 
 The word "impossible" has always held a special place in my heart. It's quite fascinating how a simple arrangement of letters can carry such profound significance. On the surface, it appears as a sense of  something that cannot be done. Yet, if we look closely, we can differentiate a glimmer of hope hidden within it. "I'm possible." These two small words, when put together, carry a powerful message of resilience and determination.
 Life, as we all come to realise sooner or later, is a journey laden with challenges. It's in these moments of trial that the word "impossible" tends to rear its head, whispering doubts into our minds and planting seeds of hesitation. Nonetheless, it's essential to recognize that this word, though seemingly absolute, is not an absolute truth. It is more of a reflection of our mindset and perception rather than an inherent characteristic of reality.
