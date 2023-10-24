@@ -1,9 +1,9 @@
 # Impossible
 
-- [Rough Draft](index.md)
-- [First Draft](first-draft.md)
-- [Revision](revision.md)
-- [Edit](edit.md)
+- [Rough Draft](#rough-draft)
+- [First Draft](#first-draft)
+- [Revision](#revision.md)
+- [Edit](#edit)
 
 ## Rough Draft
 
