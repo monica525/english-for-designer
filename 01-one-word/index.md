@@ -17,5 +17,3 @@ For me, the beauty of the word "impossible" lies in its hidden meaning. It serve
 
 In conclusion, the word "impossible" serves as a reminder that our greatest limitations often reside within our own mind. It encourages us to challenge ourselves, to push beyond the boundaries of what we believe to be achievable. With determination, persistence, and  belief in our capabilities, we can transform the impossible into the possible. So, let us embrace the power of "I'm possible" and embark on a journey that exceeds the boundaries of what the world seems achievable.
 
-
-## First Draft
