@@ -1,7 +1,7 @@
 # Impossible
 
-- [Rough Draft](#rough-draft)
-- [First Draft](#first-draft)
+- [Rough Draft](#rough-draft.md)
+- [First Draft](#first-draft.md)
 - [Revision](#revision.md)
 - [Edit](#edit)
 
