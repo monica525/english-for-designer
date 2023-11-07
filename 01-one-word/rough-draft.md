@@ -1,10 +1,3 @@
-# Impossible
-
-- [Rough Draft](rough-draft.md)
-- [First Draft](first-draft.md)
-- [Revision](revision.md)
-- [Edit](edit.md)
-
 ## Rough Draft
 
 The word "impossible" has always held a special place in my heart. It's quite fascinating how a simple arrangement of letters can carry such profound significance. On the surface, it appears to indicate  a sense of something that cannot be done. Yet, if we look closely, we can differentiate a glimmer of hope hidden within it. "I'm possible." These two small words, when put together, carry a powerful message of resilience and determination.
