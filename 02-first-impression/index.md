@@ -5,5 +5,5 @@
 
 ## About
 
-![photo](https://github.com/monica525/english-for-designer/assets/143282725/3bdab073-1583-4286-86c1-a7377ec2bd5b)
+![photo](https://github.com/monica525/english-for-designer/assets/143282725/1abcbf92-cd58-4614-baff-24e8f73fb8c0)
 
