@@ -4,4 +4,5 @@
 - [Projects](projects.md)
 
 ## About
-![Uploading Screenshot 2023-11-21 at 13.06.25.png…]()
+![photo](https://github.com/monica525/english-for-designer/assets/143282725/6611e93c-6492-44a3-b9cd-90d7f1d0edb6)
+
