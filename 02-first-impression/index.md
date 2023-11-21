@@ -14,6 +14,7 @@ I genuinely like to grow and develop while learning from my mistakes and to be i
 Here are some example of my work. I mainly enjoy thinking outside of the box while creating creative concepts within digital design. 
 ### Mobile App for National Gallery Prague
 ![mobileapp](https://github.com/monica525/english-for-designer/assets/143282725/9f2c62e9-df88-4c33-b32a-b5035b0a92cc)
+- I truly enjoyed this final project as a part of digital design subject at the Unniversity
 - New mobile app that enhance the overall art gallery experience for the visitor and encourage greater attendance
 
 ### Balcan Crossover Festival
