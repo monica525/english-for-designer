@@ -19,6 +19,8 @@ Here are some example of my work. I mainly enjoy thinking outside of the box whi
 ### Balcan Crossover Festival
 ![poster](https://github.com/monica525/english-for-designer/assets/143282725/40c218c1-eae2-4f2c-b161-fca0837dca43)
 - https://monicafolberova.com/balcancrossover-festival
+- Celebrating Diversity through Typography: Uniting the Balkans and Embracing Individuality.The typography celebrates the beauty of each individual, highlighting the rich tapestry of humanity within the Balkans. By utilising this typography, we strive to inspire dialogue, foster unity amidst diversity, and promote a deeper understanding and appreciation for the Balkan region.
+
 
 ### Board Game Redesign
 ![imaginarium](https://github.com/monica525/english-for-designer/assets/143282725/160d9c69-b23d-4d93-9a27-501461b713c1)
