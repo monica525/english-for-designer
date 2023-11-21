@@ -11,7 +11,7 @@ I am currently accomplishing my last year at the University. Having digital desi
 I genuinely like to grow and develop while learning from my mistakes and to be inspired by the people around me. In the future, I would love to work in an international environment as I like to work with people from different backgrounds. Moreover, I am very enthusiastic about digital word, including ux/ui and that's a path I would like to follow in the future. In my free time, I love to travel to other countries, learn new languages and get lost in nature. I enjoy finding inspiration in everyday life that can be applied to graphic design ideas later on. 
 
 ## Projects
-As for my final project for the subject of Digital Design, have decided to create digital product for art gallery. I firstly found the current challenge, including statistics about the reduction of visits in the last year. Later, I came up with possible solution how to enhance overall experience and engagement  to increase the attendance. Therefore, I had to create a persona with its needs and fears when visiting art gallery. Later, I  did user flow, prototypes wireframes, design system,  usability testing and samples from the application. 
+Here are some example of my work. I mainly enjoy creating creative concepts and digital design. 
 ### Mobile App for National Gallery Prague
 ![mobileapp](https://github.com/monica525/english-for-designer/assets/143282725/9f2c62e9-df88-4c33-b32a-b5035b0a92cc)
 
