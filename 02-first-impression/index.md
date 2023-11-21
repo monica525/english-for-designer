@@ -4,6 +4,5 @@
 - [Projects](projects.md)
 
 ## About
-
-![photo](https://github.com/monica525/english-for-designer/assets/143282725/1abcbf92-cd58-4614-baff-24e8f73fb8c0)
+![photo](https://github.com/monica525/english-for-designer/assets/143282725/f47ee95f-4f8f-437e-87e1-c9ca33ed4acd)
 ### Hi, my name is Monika and I am an enthusiastic and ambitious graphic designer. 
