@@ -17,4 +17,5 @@ Here are some example of my work. I mainly enjoy thinking outside of the box whi
 - New mobile app that enhance the overall art gallery experience for the visitor and encourage greater attendance
 
 ### Balcan Crossover Festival
-![Uploading poster.png…]()
+![poster](https://github.com/monica525/english-for-designer/assets/143282725/40c218c1-eae2-4f2c-b161-fca0837dca43)
+
