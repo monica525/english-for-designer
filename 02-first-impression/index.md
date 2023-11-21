@@ -20,4 +20,9 @@ Here are some example of my work. I mainly enjoy thinking outside of the box whi
 ![poster](https://github.com/monica525/english-for-designer/assets/143282725/40c218c1-eae2-4f2c-b161-fca0837dca43)
 - https://monicafolberova.com/balcancrossover-festival
 
+### Board Game Redesign
+![imaginarium](https://github.com/monica525/english-for-designer/assets/143282725/160d9c69-b23d-4d93-9a27-501461b713c1)
+- The game "Imaginarium" redesigns the famous board game with submarine theme. The type of game is visual and the goal of the game is not only to entertain and develop your imagination, but also to get to know your better your friends. The cards mainly contain colourful illustrations depicting submarine life, landscapes, and objects related to the ocean.The game time is around 30 minutes per round. Players are aged 10+ and can be played with 3-6 players. The game can be used at home or in the park, for example. The board is made of glass, the card is made of paper and the player figures are made of mod.
+
+
 
