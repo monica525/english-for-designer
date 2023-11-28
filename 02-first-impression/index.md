@@ -16,6 +16,8 @@ Here are some example of my work. I mainly enjoy thinking outside of the box whi
 ![mobileapp](https://github.com/monica525/english-for-designer/assets/143282725/9f2c62e9-df88-4c33-b32a-b5035b0a92cc)
 - I truly enjoyed this final project as a part of digital design subject at the Unniversity
 - New mobile app that enhance the overall art gallery experience for the visitor and encourage greater attendance
+- https://monicafolberova.com/art-gallery-mobile-app
+
 
 ### Balcan Crossover Festival
 ![poster](https://github.com/monica525/english-for-designer/assets/143282725/40c218c1-eae2-4f2c-b161-fca0837dca43)
