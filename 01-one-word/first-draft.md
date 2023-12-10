@@ -1,6 +1,6 @@
 ## First Draft
 
-I always found the “impossible” very inspiring as it has its hidden meaning. At first, it can seem to look at something that is impossible or I cannot do something. On the contrary if we split the word, it says I’am possible, which carries a message of determination that we can do anything that we put our mind to it.
+I always found the word “impossible” very inspiring as it has its hidden meaning. At first, it can seem to look at something that is impossible or I cannot do something. On the contrary if we split the word, it says I’am possible, which carries a message of determination that we can do anything that we put our mind to it.
 
 As we grow in our life, we often encounter many challenges in our way, where the word “impossible” can often cross our mind. This feeling of having doubt about our own capabilities to not be able to achieve something we want. In my opinion, the only limitations  we might have is the one we create in our own head. Therefore, I think is often up to our human mindset how we look at it and the beliefs with have that can have an impact on our actions later on. 
 
