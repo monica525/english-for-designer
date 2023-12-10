@@ -1,9 +1,9 @@
 # First Impression ✨
 
-- [About](#about)
+- [Brief](#brief)
 - [Projects](#projects)
 
-## About
+## Brief
 ![photo](https://github.com/monica525/english-for-designer/assets/143282725/f47ee95f-4f8f-437e-87e1-c9ca33ed4acd)
 #### Hi, I am Monika and I am an enthusiastic and ambitious graphic designer, multimedia artist and travel lover.
 I have always loved to do creative stuff since I was a small kid. Having not the best grades in maths and dribbling all the time during class made me realise that I would follow a more creative direction in my life. I am currently working as a graphic designer in a creative marketing agency, where I have a chance to do website creation, visual identity and a bit of motion design.
