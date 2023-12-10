@@ -23,9 +23,11 @@ See below some examples of my work ✌🏻
 
 ### Mobile App for National Gallery Prague
 ![mobileapp](https://github.com/monica525/english-for-designer/assets/143282725/9f2c62e9-df88-4c33-b32a-b5035b0a92cc)
-- I truly enjoyed this final project as a part of digital design subject at the Unniversity
 - New mobile app that enhance the overall art gallery experience for the visitor and encourage greater attendance
-- https://monicafolberova.com/art-gallery-mobile-app
+- Problem: The overall number of visits has been decreasing due lack of information about the art work or understanding what they see. This can create disappointment or frustration for the visitors. Moreover, the language barrier can be seen as another reason to visit the art gallery.
+- Action: New mobile app that enhances the overall art gallery experience for the visitor to encourage greater attendance.
+- Results: Better overall experience for the visitor to enjoy their tour with scanning the art and having audio with different language options
+- https://monicafolberova.com/art-gallery-mobile-app 
 
 
 ### Balcan Crossover Festival
