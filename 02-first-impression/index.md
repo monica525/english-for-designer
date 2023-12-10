@@ -30,10 +30,15 @@ See below some examples of my work ✌🏻
 - https://monicafolberova.com/art-gallery-mobile-app 
 
 
-### Balcan Crossover Festival
+
+
+### Balcan Crossover Movie Festival
 ![poster](https://github.com/monica525/english-for-designer/assets/143282725/40c218c1-eae2-4f2c-b161-fca0837dca43)
+- I did a visual campaign for the 2nd Balcan Crossover Movie Festival. I created a visual style of the poster with the message TRUE BALCAN EMOTION (čistá emoce) since the majority of balcan's movies are very emotional. The event was held at  Cinema Pritomnost in Prague 3. 
+- The main idea was to celebrate diversity through typography: uniting the Balkans and embracing individuality. The typography celebrates the beauty of each individual, highlighting the rich tapestry of humanity within the Balkans. By utilising this typography, we strive to inspire dialogue, foster unity amidst diversity, and promote a deeper understanding and appreciation for the Balkan region.
 - https://monicafolberova.com/balcancrossover-festival
-- Celebrating Diversity through Typography: Uniting the Balkans and Embracing Individuality.The typography celebrates the beauty of each individual, highlighting the rich tapestry of humanity within the Balkans. By utilising this typography, we strive to inspire dialogue, foster unity amidst diversity, and promote a deeper understanding and appreciation for the Balkan region.
+
+
 
 
 ### Board Game Redesign
