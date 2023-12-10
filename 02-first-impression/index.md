@@ -22,7 +22,7 @@ See below some examples of my work ✌🏻
 
 
 ### Mobile App for National Gallery Prague
-![mobileapp](https://github.com/monica525/english-for-designer/assets/143282725/9f2c62e9-df88-4c33-b32a-b5035b0a92cc)
+![Uploading Screenshot 2023-12-10 at 21.07.47.png…]()
 - New mobile app that enhance the overall art gallery experience for the visitor and encourage greater attendance
 - Problem: The overall number of visits has been decreasing due lack of information about the art work or understanding what they see. This can create disappointment or frustration for the visitors. Moreover, the language barrier can be seen as another reason to visit the art gallery.
 - Action: New mobile app that enhances the overall art gallery experience for the visitor to encourage greater attendance.
