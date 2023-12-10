@@ -10,4 +10,4 @@ What’s your takeway?
 
 
 # What’s your hook? 
-- “Impossible” - words that has its hidden meaning.
+- “Impossible”: word that has its hidden meaning.
