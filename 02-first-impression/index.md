@@ -10,6 +10,9 @@ I have always loved to do creative stuff since I was a small kid. Having not the
 
 I genuinely like to grow and develop while learning from my mistakes and to be inspired by the people around me. In the future, I would love to work in an international environment as I like to work with people from different backgrounds. Moreover, I am very enthusiastic about digital word, including ux/ui and that's a path I would like to follow in the future. In my free time, I love to travel to other countries, learn new languages and get lost in nature. I enjoy finding inspiration in everyday life that can be applied to graphic design ideas later on. 
 
+Here is a link to my One Word Essay https://github.com/monica525/english-for-designers/blob/main/01-one-word/index.md
+
+
 ## Projects
 Here are some example of my work. I mainly enjoy thinking outside of the box while creating creative concepts within digital design. 
 ### Mobile App for National Gallery Prague
