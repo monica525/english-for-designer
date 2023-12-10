@@ -3,8 +3,8 @@
 - [About](#about)
 - [Projects](#projects)
 
-## About
-![Uploading IMG_0647.jpg…]()
+##About
+![IMG_0647](https://github.com/monica525/english-for-designers/assets/143282725/bee119d8-e771-420a-b461-abb7695a5dc2)
 #### Hi, I’m Monika and I am an enthusiastic and ambitious graphic designer, multimedia artist and travel lover  💻 🖊 🌎.
 I have always loved to do creative stuff since I was a small kid. Having not the best grades in maths and dribbling all the time during class made me realise that I would follow a more creative direction in my life. I am currently working as a graphic designer in a creative marketing agency, where I have a chance to do website creation, visual identity and a bit of motion design.
 
