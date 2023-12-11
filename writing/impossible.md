@@ -1,3 +1,8 @@
+- [**Monika Folberova**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
+    - [Work](work/index.md)
+    - [Writing](writing/index.md)
+    - [About](about.md)
+
 ## Impossible
 
 ![imposible](https://github.com/monica525/english-for-designer-/assets/143282725/0c609016-31e1-4d3e-9d94-3c8dcfa75275)
