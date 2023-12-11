@@ -1,4 +1,11 @@
-## Projects
+- [**Monika Folberova**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
+    - [Work](work/index.md)
+    - [Writing](writing/index.md)
+    - [About](about.md)
+
+
+
+## Work
 Hi, I’m Monika . I am enthusiastic and ambitios graphic designer who helps comapnies to find creative concept solutions withing digital design.
 
 In my design practice, the main objective is to always think otside of box when doing primary research, finding keyword that can help me to later conenct with possible ideas, and creation of either digital product, visual graphics or identity. I enjoy working on various projects, but mainly so far web design or mobile app. 
