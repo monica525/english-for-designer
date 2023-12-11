@@ -1,6 +1,6 @@
-## Final Draft
+## Impossible
 
-For this final draft, I used the Hemingway Editor.
+![imposible](https://github.com/monica525/english-for-designer-/assets/143282725/0c609016-31e1-4d3e-9d94-3c8dcfa75275)
 
 I always found the “impossible” very inspiring as it has its hidden meaning. At first, it can seem to look at something that is impossible or I cannot do something. On the contrary, when we divide the word, it says I’am possible. This message carries meaning  of determination that we can do anything that we put our mind to it.
 
@@ -12,4 +12,3 @@ In conclusion, the word “impossible” is a good way to show how our thinking 
 
 The takeways can be seen as hidden optimism: The word "impossible" hides a positive message within, as breaking it down to "I'm possible" emphasizes determination and optimism.
 
-![imposible](https://github.com/monica525/english-for-designer-/assets/143282725/0c609016-31e1-4d3e-9d94-3c8dcfa75275)
