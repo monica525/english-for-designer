@@ -38,6 +38,6 @@ See below some examples of my work ✌🏻
 
 
 ### Editorial Book Cover
-![lll](https://github.com/monica525/english-for-designers/assets/143282725/6471a25f-10dc-466b-ac63-bace3790020b)
+![book3 1](https://github.com/monica525/english-for-designers/assets/143282725/21661d02-41c3-49e0-be39-0834bba290ba)
 - I decided to create own texture for this book edition. I used aquarell techniques, after scan it and adited in ps. I plaed with colorus so each edition can be different from each other. The whole design is abstarct while using organic elements.
 - https://monicafolberova.com/editorialbook-cover
