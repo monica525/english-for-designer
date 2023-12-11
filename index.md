@@ -4,3 +4,4 @@
     - [About](about.md)
  
   Hi, I’m Monika and I am an enthusiastic and ambitious graphic designer, multimedia artist and travel lover 💻 🖊 🌎.
+![Uploading photo.jpg…]()
