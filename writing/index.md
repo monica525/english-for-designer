@@ -5,6 +5,6 @@
 
 ## Writting
 
-Hi, I’m Monika and I am an enthusiastic and ambitious graphic designer, multimedia artist and travel lover 💻 🖊 🌎.
+Hi, I’m Monika and I like to express my thought and reflections by writing it down. You can read what is my opinion about the word impossible. 
  
 ### [Impossible](impossible.md) 
