@@ -35,9 +35,3 @@ See below some examples of my work ✌🏻
 ![imaginarium](https://github.com/monica525/english-for-designer/assets/143282725/160d9c69-b23d-4d93-9a27-501461b713c1)
 - The game "Imaginarium" redesigns the famous board game with submarine theme. The type of game is visual and the goal of the game is not only to entertain and develop your imagination, but also to get to know your better your friends. The cards mainly contain colourful illustrations depicting submarine life, landscapes, and objects related to the ocean.The game time is around 30 minutes per round. Players are aged 10+ and can be played with 3-6 players. The game can be used at home or in the park, for example. The board is made of glass, the card is made of paper and the player figures are made of mod.
 
-
-
-### Editorial Book Cover
-![Frame 8590](https://github.com/monica525/english-for-designers/assets/143282725/19fb1d54-348f-43dc-b1e9-220c7212b94f)
-- I decided to create own texture for this book edition. I used aquarell techniques, after scan it and adited in ps. I plaed with colorus so each edition can be different from each other. The whole design is abstarct while using organic elements.
-- https://monicafolberova.com/editorialbook-cover
