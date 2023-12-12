@@ -4,7 +4,7 @@
     - [About](about.md)
 
  
-### Hi, I’m Monika and I am an enthusiastic and ambitious graphic designer, digital artist and travel lover 💻 🖊 🌎.
+### Hi, I’m Monika, an enthusiastic and ambitious graphic designer, digital artist and travel lover 💻 🖊 🌎.
 
 I have always loved to do creative stuff since I was a small kid. Having not the best grades in maths and dribbling all the time during class made me realise that I would follow a more creative direction in my life. I am currently working as a graphic designer in a creative marketing agency, where I have a chance to do website creation, visual identity and a bit of motion design.
 
