@@ -6,21 +6,21 @@
 
 
 ## Work
-Hi, I’m Monika and I am thrilled about the digital world!
+Hi, I’m Monika, and I am thrilled about the digital world!
 
-In my design practice, the main objective is to always think otside of box when doing primary research, finding keyword that can help me to later conenct with possible ideas, and creation of either digital product, visual graphics or identity. I enjoy working on various projects, but mainly so far web design or mobile app. 
+In my design practice, the main goal is to always think outside the box when doing primary research, finding keywords that can later help me connect with possible ideas, and creating either digital products, visual graphics, or identities. I enjoy working on various projects, but mainly, so far, web design or mobile apps.
 
-See below some examples of my work ✌🏻
-
+See below for some examples of my work. ✌🏻
 
 ### Mobile App for National Gallery Prague
-![mobileapp](https://github.com/monica525/english-for-designers/assets/143282725/ee7a6097-51c8-481a-9f14-112ab90d987c)
-- New mobile app that enhance the overall art gallery experience for the visitor and encourage greater attendance
-- Problem: The overall number of visits has been decreasing due lack of information about the art work or understanding what they see. This can create disappointment or frustration for the visitors. Moreover, the language barrier can be seen as another reason to visit the art gallery.
-- Action: New mobile app that enhances the overall art gallery experience for the visitor to encourage greater attendance.
-- Results: Better overall experience for the visitor to enjoy their tour with scanning the art and having audio with different language options
-- https://monicafolberova.com/art-gallery-mobile-app 
+![Various screens displaying different states of the redesigned National Gallery Prague mobile app.](https://github.com/monica525/english-for-designers/assets/143282725/ee7a6097-51c8-481a-9f14-112ab90d987c)
 
+A redesigned mobile app that enhances the overall art gallery experience for the visitor and encourages greater participation and attendance.
+
+- **Problem:** The overall number of visits has decreased due to the lack of information about the artwork or understanding of what they see. This missing feature may have led to disappointment or frustration for the visitors. Moreover, the language barrier may have been another reason to visit the art gallery.
+- **Action:** A redesigned mobile app that enhances the overall art gallery experience for the visitor and encourages greater participation and attendance. (Same as introductory sentence, rewrite and add value.)
+- **Results:** The app redesign creates a better experience for visitors to enjoy their tour by scanning the art and offering audio in different languages.
+- **See Project:** <https://monicafolberova.com/art-gallery-mobile-app>
 
 
 ### Balcan Crossover Movie Festival
