@@ -5,6 +5,6 @@
 
 ## Writting
 
-Hi, I’m Monika and I like to express my thoughts and reflections by writing it down. You can read what is my opinion about the word impossible here.
+Hi, I’m Monika, and I like to express my thoughts and reflections by writing them down. You can read about my opinion on the word impossible here.
  
 ### [Impossible](impossible.md) 
