@@ -1,7 +1,7 @@
 - [**Monika Folberova**](./) <!-- Use `index.md` as well. `./` is a shortcut back to your home page `index.md` -->
-    - [Work](work/index.md)
-    - [Writing](writing/index.md)
-    - [About](about.md)
+    - [Work](../work/index.md)
+    - [Writing](../writing/index.md)
+    - [About](../about.md)
 
 
 
