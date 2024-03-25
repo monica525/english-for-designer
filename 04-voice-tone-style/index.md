@@ -31,7 +31,7 @@ I enjoy using emoticons to better express myself in conversations. Otherwise, it
 I enjoy more informal language as it is much friendlier. It's actually interesting how formal and informal language differs greatly in each language. When I lived abroad, I became so accustomed to speaking informally with my friends, and even teachers. In comparison to the Czech Republic, I feel we are much more serious and formal, using titles and such. I honestly prefer a more relaxed way of expressing myself. 
 
 #### Sarcastic
-Especially with close friends and fmaily membber, I like to use sarcasm while sending some funny meme, they really make me and other people laugh.. if they have similat kind of humor. 
+Especially with close friends and family members, I like to use sarcasm while sending funny memes. They really make me and other people laugh, if they have a similar kind of humor.
 
 
 
