@@ -4,15 +4,21 @@ The year 2023 was full of changes, including both my personal and professional l
 
 
 #### What I learnt at the unniversity
-- How to better deal with stress
-- 
-
-
+- Essential insights from inspiring people 😇
+- The importance of content in your design portfolio, including what I learned, my approach, how I solved certain problems 🤔
+- Better understanding of what area in design I would like to pursue 😎
+- Put a deadline to your work and not trying to keep enhancing the design when you know you don't have much more time 🙃
 
 
 #### What I learnt at work
-
-
+- How to better deal with stress 🥹
+- The importance of healthy environment 🙏
+- Time management 😵
+- Keep learning and just try, even if you don't know everything 🤓
 
 
 #### What I learnt in my personal life & self reflection 
+- Take critisism from close people better
+- Better to take small steps every day than trying to take one big leap at once
+- Curiosity is the key
+- Time heals everything
