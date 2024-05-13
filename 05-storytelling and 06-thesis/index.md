@@ -25,7 +25,7 @@ Here is sample of a few wireframes in low fidelity that I did to sketch my ideas
 I created UI elements that are the core of the whole design identity. I created new logo, icon, colours, typography, illustrations etc. I wanted the users to feel that the design is fun, playful and modern.
 
 #### App examples (improvisation), therefore just bullet points
-- -	Onboarding / welcoming the user and see his preferences, getting to know him
+- Onboarding / welcoming the user and see his preferences, getting to know him
 -	Homepage: personalise widgets
 -	Practice: reading, listening, speaking, writing
 -	Profile section: current language, achievements, donate
