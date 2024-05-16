@@ -19,7 +19,7 @@ I always like to talk with others with respect and dignity. I consistently show 
 #### Friendly
 I often smile when I talk to people and try to transmit good and positive energy. I believe that being nice, helping each other, or even offering a little smile can make someone else's day.
 
-#### Emphatetic
+#### Empathetic
 I care about others' feelings and try to put myself in their shoes. I like to listen and offer support without judgment.
 
 
