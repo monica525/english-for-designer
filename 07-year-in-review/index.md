@@ -5,9 +5,9 @@ The year 2023 was full of changes, including both my personal and professional l
 
 #### What I learned at university
 - Essential insights from inspiring people 😇
-- The importance of content in your design portfolio, including what I learned, my approach, how I solved certain problems 🤔
+- The importance of content in your design portfolio, including what I learned, my approach and how I solved certain problems 🤔
 - A better understanding of what area of design I would like to pursue 😎
-- Put a deadline on to your work and not try not try to keep enhancing the design when you know you don't have much more time 🙃
+- Put a deadline on your work and try not to keep enhancing the design when you know you don’t have much more time 🙃
 
 
 #### What I learned at work
@@ -17,7 +17,7 @@ The year 2023 was full of changes, including both my personal and professional l
 - Keep learning and just try, even if you don't know everything 🤓
 
 
-#### What I learned in my personal life & self-reflection”
+#### What I learned in my personal life & self-reflection
 - Take criticism from close people better
 - Better to take small steps every day than try to take one big leap at once
 - Curiosity is the key
